@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AFIFFIKRI
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css, javascript, typescript, reactjs, react native expo, node js, RESTful API, postgres SQL, insomnia, tableplus 
+- 🌱 I’m currently learning html, css, javascript, typescript, reactjs, react native expo, node js, RESTful API, expressjs, postgres SQL, insomnia, tableplus 
 
 
 <!---
